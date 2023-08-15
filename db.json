@@ -1,0 +1,11 @@
+{
+  "products": [
+    {
+      "name": "iphone 3",
+      "desc": "sdfsdfdsf",
+      "quantity": "45",
+      "origin": "Trung Quốc",
+      "id": 1
+    }
+  ]
+}
